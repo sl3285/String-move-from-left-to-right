@@ -1,1 +1,1 @@
-# String-move-from-left-to-right
+# String move from left to right
